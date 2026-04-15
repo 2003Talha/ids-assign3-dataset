@@ -1,5 +1,5 @@
 Zinger Burger Recipe
-=====================
+
 Cuisine: American / Fast Food
 Prep Time: 20 minutes
 Cook Time: 15 minutes
@@ -7,29 +7,24 @@ Total Time: 35 minutes
 Servings: 4
 
 Ingredients:
-- 4 boneless chicken breasts
-- 1 cup buttermilk
-- 1 cup all-purpose flour
-- 1 teaspoon cayenne pepper
-- 1 teaspoon garlic powder
-- 1 teaspoon paprika
-- Salt and pepper to taste
-- Oil for deep frying
-- 4 burger buns
-- Lettuce, tomato, mayonnaise for serving
+1. 4 boneless chicken breasts
+2. 1 cup buttermilk
+3. 1 cup all-purpose flour
+4. 1 teaspoon cayenne pepper
+5. 1 teaspoon garlic powder
+6. 1 teaspoon paprika
+7. Salt and pepper to taste
+8. Oil for deep frying
+9. 4 burger buns
+10. Lettuce, tomato, mayonnaise for serving
 
 Steps:
 1. Marinate chicken in buttermilk with salt and pepper for at least 1 hour.
 2. Mix flour, cayenne pepper, garlic powder, and paprika in a bowl.
 3. Coat each chicken piece in the seasoned flour mixture.
-4. Heat oil in a deep pan to 180°C (350°F).
-5. Deep fry chicken for 12–15 minutes until golden and cooked through.
+4. Heat oil in a deep pan to 180 C (350 F).
+5. Deep fry chicken for 12 to 15 minutes until golden and cooked through.
 6. Drain on paper towels.
 7. Toast burger buns lightly.
 8. Assemble with lettuce, tomato, fried chicken, and mayonnaise.
-9. Serve immediately and enjoy!
-
-Tips:
-- For extra crunch, double-coat the chicken.
-- Add hot sauce for more spice.
-- Can be baked at 200°C for 25 minutes for a healthier option.
+9. Serve immediately and enjoy
